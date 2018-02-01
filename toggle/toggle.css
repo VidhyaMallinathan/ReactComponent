@@ -1,0 +1,8 @@
+.cc-toggle-label {
+    border: 1px solid #ccc;
+    padding: 10px
+}
+
+.cc-toggle-ipcb {
+    visibility: hidden;
+}
